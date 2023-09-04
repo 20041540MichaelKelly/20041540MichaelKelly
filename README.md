@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+[![An image of @20041540michaelkelly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/20041540michaelkelly)](https://holopin.io/@20041540michaelkelly)
+
+
 <!--
 **20041540MichaelKelly/20041540MichaelKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
